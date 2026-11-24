@@ -51,4 +51,4 @@ If this policy changes, we will update the date at the top of this page.
 
 ## Contact
 
-Questions about this policy: **[oakbridgweb@gmail.com]**
+Questions about this policy: [oakbridgweb@gmail.com](mailto:oakbridgweb@gmail.com)
