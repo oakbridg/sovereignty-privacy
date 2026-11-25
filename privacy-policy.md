@@ -1,6 +1,6 @@
 # Sovereignty: Privacy Policy
 
-*Last updated: 24 November 2026*
+*Last updated: 25 November 2026*
 
 Sovereignty is a grand-strategy game made by **Oakbridg**. This policy explains what happens to
 your information when you play it.
@@ -13,7 +13,7 @@ internet.
 
 The game keeps a few files on your phone. They are never sent to us or to anyone else.
 
-* **Saved games**, in `Documents/Sovereignty` (or the game's own folder if that can't be used).
+* **Saved games**, in `Documents/Sovereignty/save` (or the game's own folder if that can't be used).
 * **Your settings**, such as whether the music plays.
 * **Pictures you choose to save**, such as the map of your realm or a photo-mode picture. These
   go to `Pictures/Sovereignty` in your gallery, and only when you tap Save or Share.
@@ -21,6 +21,22 @@ The game keeps a few files on your phone. They are never sent to us or to anyone
 You can delete any of these with your phone's file manager or gallery. Uninstalling the game
 removes its own folder. Saves and pictures in `Documents` and `Pictures` stay until you delete
 them.
+
+## Loading a save from your files
+
+**Load save from files** opens your phone's own file picker. The game can read only the file you
+pick there, and nothing else on your phone. If the file is a Sovereignty save, the game keeps a
+copy in its save folder and loads it. Nothing is sent anywhere.
+
+## Mods
+
+* **Download textures** saves the game's pictures as a zip file in `Documents/Sovereignty/mod`,
+  only when you tap it.
+* **Import textures** opens your phone's file picker. The game can read only the zip you pick.
+  It keeps a copy in its mod folder and uses only the pictures in it.
+
+Mods are made by players, not by us, and you use them at your own risk. The game reads only
+pictures from a mod, and nothing is sent anywhere.
 
 ## Sharing
 
